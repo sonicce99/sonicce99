@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-<img src="https://img.shields.io/badge/aws%20S3-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/aws%20S3-232F3E?style=for-the-badge&logo=aws%20S3&logoColor=white">
 <img src="https://img.shields.io/badge/Styled-components-#DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-#764ABC?style=for-the-badge&logo=redux&logoColor=white">
 
