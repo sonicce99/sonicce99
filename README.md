@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/aws%20S3-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicce99&show_icons=true&theme=merko)
