@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonicce99&count_bg=%2379C83D&title_bg=%236DA0EB&icon=youtube.svg&icon_color=%23E70707&title=Welcome&edge_flat=false)](https://www.youtube.com/channel/UCqa4CnlUu--_X0lXWURBNEQ)
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
