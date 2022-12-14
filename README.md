@@ -5,7 +5,7 @@
 
 ### 🧚‍♀️ Side Project
 
-- [nextjs-css-storybook](https://nextjs-css-storybook.vercel.app): 외부 라이브러리 없이, 구현하고 싶은 모든 것을 구현합니다.
+- [nextjs-css-storybook](https://nextjs-css-storybook.vercel.app): 어떠한 외부 라이브러리 없이, styled-component만으로 구현하고 싶은 모든 것을 구현합니다.
 
 ### 📚 Article
 
