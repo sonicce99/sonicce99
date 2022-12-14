@@ -1,29 +1,22 @@
+
 ### Hi there 👋
-##### Yes, I can handle that well
+
+#### 기억보단 기록을, 기록보단 공유를!
+
+### 🧚‍♀️ Side Project
+
+- [nextjs-css-storybook](https://nextjs-css-storybook.vercel.app): 외부 라이브러리 없이, 구현하고 싶은 모든 것을 구현합니다.
+
+### 📚 Article
+
+- [실행 컨텍스트와 javascript 동작원리에 대한 이해. (feat.호이스팅)](https://sonicce99.github.io/execution-context/): 코어 자바스크립트를 읽고 공부한 내용입니다.
+
+- [React와 setTimeout 그리고 setInterval에 대한 이해. (feat.closure)](https://sonicce99.github.io/setTimeOut_setInterval/): 회사 프로젝트 중에 얻는 깨달음에 대한 내용입니다.
+
+- [Vanila Javascript로 useState 구현하기](https://sonicce99.github.io/react-hooks/): 황준일 개발자님의 블로그를 보고 공부한 내용입니다.
+
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonicce99&count_bg=%2379C83D&title_bg=%236DA0EB&icon=youtube.svg&icon_color=%23E70707&title=Welcome&edge_flat=false)
-
-<!-- (https://www.youtube.com/channel/UCqa4CnlUu--_X0lXWURBNEQ) -->
-
-
-<!-- <div id="a">
-<img src="https://img.shields.io/badge/front-react%20and%20hooks-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/deploy-amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=#232F3E"> 
-<img src="https://img.shields.io/badge/front-styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=DB7093">
-<img src="https://img.shields.io/badge/front-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC">
-<img src="https://img.shields.io/badge/front-Redux--thunk-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC">
-<img src="https://img.shields.io/badge/front-axios-945DD6?style=for-the-badge&logo=axios&logoColor=945DD6">
-<img src="https://img.shields.io/badge/front-webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=8DD6F9">
-<img src="https://img.shields.io/badge/front-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=F9DC3E">
-  
-  <img src="https://img.shields.io/badge/back-spring--boot-6DB33F?style=for-the-badge&logo=babel&logoColor=6DB33F">
-  <img src="https://img.shields.io/badge/back-spring--boot--security-6DB33F?style=for-the-badge&logo=babel&logoColor=6DB33F">
-  <img src="https://img.shields.io/badge/back-jpa-101113?style=for-the-badge&logo=jpa&logoColor=F9DC3E">
-  <img src="https://img.shields.io/badge/back-quartz-00B4EF?style=for-the-badge&logo=quartz&logoColor=00B4EF">
-  <img src="https://img.shields.io/badge/back-mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=003545">
-   <img src="https://img.shields.io/badge/back-mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=003545">
-</div> -->
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicce99&show_icons=true&theme=merko)
 
