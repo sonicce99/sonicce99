@@ -5,6 +5,8 @@
 
 ### 📚 Article
 
+- [Vanilla Javascript로 CSR, SSR 구현 및 비교하기](https://sonicce99.github.io/csr-ssr/): Server-Side-Rendering을 이해하기 위해 공부한 내용입니다.
+
 - [실행 컨텍스트와 javascript 동작원리에 대한 이해. (feat.호이스팅)](https://sonicce99.github.io/execution-context/): 코어 자바스크립트를 읽고 공부한 내용입니다.
 
 - [React와 setTimeout 그리고 setInterval에 대한 이해. (feat.closure)](https://sonicce99.github.io/setTimeOut_setInterval/): 회사 프로젝트 중에 얻는 깨달음에 대한 내용입니다.
