@@ -24,7 +24,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicce99&show_icons=true&theme=merko)
 
-### 📞  Connect with me  
+#### 📖 Resume
+
+[![Notion](https://img.shields.io/badge/%20-Notion-black?color=14171A&labelColor=1D1D1D&logo=notion&logoColor=ffffff)]([mailto:sonicce99@naver.com](https://www.notion.so/sonicce99/907ecc80c359442c910659a926d2eb30)) 
+
+#### 📞  Connect with me  
 
 [![Naver](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=03C75A&logo=naver&logoColor=ffffff)](mailto:sonicce99@naver.com) 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/%EB%8F%99%EC%88%98-%EC%9D%B4-b312a8238/)
