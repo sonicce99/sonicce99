@@ -5,6 +5,8 @@
 
 ### 📚 Article
 
+- [인앱결제 프로젝트 중 만난 일](https://sonicce99.github.io/shopby/): shopby를 통한 인앱결제 프로젝트 중 만났던 API 순차요청에 관한 이야기입니다.
+
 - [Vanilla Javascript로 CSR, SSR 구현하기](https://sonicce99.github.io/csr-ssr/): Server-Side-Rendering에 대해 알아봅니다.
 
 - [실행 컨텍스트와 javascript 동작원리에 대한 이해. (feat.호이스팅)](https://sonicce99.github.io/execution-context/): 코어 자바스크립트를 읽고 공부한 내용입니다.
