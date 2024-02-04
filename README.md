@@ -19,6 +19,8 @@
 
 ### 💭 Review
 
+- [2023 회고](https://sonicce99.github.io/review/2023/)
+
 - [2022 회고](https://sonicce99.github.io/review/2022/)
 
 
