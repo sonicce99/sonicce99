@@ -23,10 +23,8 @@
 
 - [2022 회고](https://sonicce99.github.io/review/2022/)
 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonicce99&count_bg=%2379C83D&title_bg=%236DA0EB&icon=youtube.svg&icon_color=%23E70707&title=Welcome&edge_flat=false)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicce99&show_icons=true&theme=merko)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicce99&show_icons=true&theme=merko) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonicce99)](https://solved.ac/sonicce99/)
 
 #### 📖 Resume
 
@@ -36,3 +34,5 @@
 
 [![Naver](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=03C75A&logo=naver&logoColor=ffffff)](mailto:sonicce99@naver.com) 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/%EB%8F%99%EC%88%98-%EC%9D%B4-b312a8238/)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonicce99&count_bg=%2379C83D&title_bg=%236DA0EB&icon=youtube.svg&icon_color=%23E70707&title=Welcome&edge_flat=false)
