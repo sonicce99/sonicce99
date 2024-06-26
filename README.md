@@ -11,7 +11,7 @@
 
 - [실행 컨텍스트와 javascript 동작원리에 대한 이해. (feat.호이스팅)](https://sonicce99.github.io/execution-context/): 코어 자바스크립트를 읽고 공부한 내용입니다.
 
-- [React와 setTimeout 그리고 setInterval에 대한 이해. (feat.closure)](https://sonicce99.github.io/setTimeOut_setInterval/): 회사 프로젝트 중에 알게된 클로저에 대한 내용입니다.
+- [setTimeout으로 Polling 구현하기](https://sonicce99.github.io/setTimeOut_setInterval/): 회사 프로젝트 중에 알게된 클로저에 대한 내용입니다.
 
 ### 🧚‍♀️ Side Project
 
