@@ -24,9 +24,9 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonicce99&show_icons=true&theme=merko) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonicce99)](https://solved.ac/sonicce99/)
 
-#### 📖 Resume
+<!--#### 📖 Resume
 
-[![Notion](https://img.shields.io/badge/%20-Notion-black?color=14171A&labelColor=1D1D1D&logo=notion&logoColor=ffffff)](https://sonicce99.notion.site/sonicce99/907ecc80c359442c910659a926d2eb30) 
+[![Notion](https://img.shields.io/badge/%20-Notion-black?color=14171A&labelColor=1D1D1D&logo=notion&logoColor=ffffff)](https://sonicce99.notion.site/sonicce99/907ecc80c359442c910659a926d2eb30) -->
 
 #### 📞  Connect with me  
 
