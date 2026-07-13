@@ -15,7 +15,7 @@
 
 - [오늘뭐먹지](https://onmmz.com): 오늘 먹은걸 공유하고 시바이누(SHIB) 받아가세요!
 
-- [nextjs-css-storybook](https://nextjs-css-storybook.vercel.app): 어떠한 외부 라이브러리 없이, styled-component만으로 구현하고 싶은 모든 것을 구현합니다.
+- [nextjs-css-storybook]([https://nextjs-css-storybook.vercel.app](https://nextjs-css-storybook.vercel.app/?path=/story/styled-components-league-of-legend--default)): 어떠한 외부 라이브러리 없이, styled-component만으로 구현하고 싶은 모든 것을 구현합니다.
 
 ### 💭 Review
 
